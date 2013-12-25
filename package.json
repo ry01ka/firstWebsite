@@ -51,6 +51,7 @@
     "grunt-pagespeed": "0.0.9",
     "grunt-imageoptim": "~1.4.1",
     "grunt-spritesmith": "~1.21.0",
-    "grunt-autoprefixer": "~0.5.0"
+    "grunt-autoprefixer": "~0.5.0",
+    "grunt-csscss": "~0.6.1"
   }
 }
